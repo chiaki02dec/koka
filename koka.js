@@ -1,7 +1,7 @@
 class koka {
   constructor() {}
   
-  getinfo() {
+  getInfo() {
     return {
       id: 'koka',
       name: 'koka',
